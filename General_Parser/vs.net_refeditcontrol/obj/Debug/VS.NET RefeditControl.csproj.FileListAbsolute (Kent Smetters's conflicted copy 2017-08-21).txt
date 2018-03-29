@@ -1,0 +1,48 @@
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_Kent\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+D:\DropBox\Dropbox\DropBoxCode\ExcelAddIn_pagkage_experiment\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+C:\Users\Bingjie Han\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+C:\Users\joker_guy\OneDrive\CodesOneDrive\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+C:\Users\joker_guy\Dropbox\Research - Han (Bingjie)\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.dll
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\bin\Debug\VS.NET RefeditControl.pdb
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET_RefeditControl.refedit.resources
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
+D:\Dropbox\Research - Han (Bingjie) - NEW\Current_Code_Base\Smetters Toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
