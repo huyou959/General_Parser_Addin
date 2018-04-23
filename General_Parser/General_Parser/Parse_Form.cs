@@ -228,13 +228,19 @@ namespace General_Parser
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string[] lines = { data_str, date_range, mainheader_range, subheader_range, subheader_pos, value_range};
-            System.IO.File.WriteAllLines(@"C:\TempTxt\Parameters.txt",lines);
-            System.Diagnostics.Process.Start(@"C:\TempTxt\Parameters.txt");
             Excel.Worksheet datasheet = Globals.ThisAddIn.Application.ActiveSheet;
+            Excel.Worksheet newworksheet;
             string title = datasheet.Range[title_pos].Cells[1, 1].Value;
             string nk = createNeum(title);
-            Excel.Worksheet newworksheet;
+            string[] lines = { title,nk, data_str, date_range, mainheader_range, subheader_range, subheader_pos, value_range};
+            //if (System.IO.File.Exists(@"D:\Parameters.txt") == false)
+            //{
+            //    System.IO.File.CreateText(@"D:\Parameters.txt");
+            //}
+
+            System.IO.File.WriteAllLines(@"D:\Parameters.txt",lines); // directory could change
+            System.Diagnostics.Process.Start(@"D:\Parameters.txt");
+            /*
             newworksheet = (Excel.Worksheet)Globals.ThisAddIn.Application.Worksheets.Add();
             if (data_str == "Row")  // dates on the row
             {
@@ -310,6 +316,7 @@ namespace General_Parser
                     }
                 }
             }
+            */
         }
 
     }

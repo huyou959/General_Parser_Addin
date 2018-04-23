@@ -230,6 +230,9 @@
   <ItemGroup>
     <None Include="Resources\Parse.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Exit-icon.png" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

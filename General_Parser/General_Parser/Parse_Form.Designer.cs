@@ -151,7 +151,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(255, 36);
             this.button1.TabIndex = 9;
-            this.button1.Text = "Parse";
+            this.button1.Text = "Get Parameters";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

@@ -58,5 +58,11 @@ namespace General_Parser
             Form1.TopMost = true;
             Form1.Show();
         }
+
+        private void button3_Click(object sender, RibbonControlEventArgs e)
+        {
+            Globals.ThisAddIn.Application.ActiveWorkbook.Close();
+            Globals.ThisAddIn.Application.Quit();
+        }
     }
 }
