@@ -11,6 +11,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 using Office = Microsoft.Office.Core;
 using Microsoft.Office.Tools.Excel;
 using System.Text.RegularExpressions;
+using Microsoft.WindowsAPICodePack.Dialogs;
 
 namespace General_Parser
 {
@@ -226,6 +227,17 @@ namespace General_Parser
         }
 
 
+        private void button_directory_Click(object sender, EventArgs e)
+        {
+            CommonOpenFileDialog dialog = new CommonOpenFileDialog();
+            dialog.InitialDirectory = "C:\\Users";
+            dialog.IsFolderPicker = true;
+            if (dialog.ShowDialog() == CommonFileDialogResult.Ok)
+            {
+                textBox_directory.Text = dialog.FileName + "\\" + "Parameters.txt";
+            }
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             Excel.Worksheet datasheet = Globals.ThisAddIn.Application.ActiveSheet;
@@ -238,8 +250,8 @@ namespace General_Parser
             //    System.IO.File.CreateText(@"D:\Parameters.txt");
             //}
 
-            System.IO.File.WriteAllLines(@"D:\Parameters.txt",lines); // directory could change
-            System.Diagnostics.Process.Start(@"D:\Parameters.txt");
+            System.IO.File.WriteAllLines(textBox_directory.Text,lines); // directory could change
+            System.Diagnostics.Process.Start(textBox_directory.Text);
             /*
             newworksheet = (Excel.Worksheet)Globals.ThisAddIn.Application.Worksheets.Add();
             if (data_str == "Row")  // dates on the row

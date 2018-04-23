@@ -14,3 +14,8 @@ C:\Users\huyou1\source\repos\General_Parser\General_Parser\obj\Debug\General_Par
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\obj\Debug\General_Parser.Parse_Form.resources
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\VS.NET RefeditControl.dll
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\VS.NET RefeditControl.pdb
+C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll

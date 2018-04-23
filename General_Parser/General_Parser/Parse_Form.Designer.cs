@@ -45,6 +45,9 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.refedit5 = new VS.NET_RefeditControl.refedit();
             this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox_directory = new System.Windows.Forms.TextBox();
+            this.button_directory = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -147,7 +150,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(78, 490);
+            this.button1.Location = new System.Drawing.Point(78, 545);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(255, 36);
             this.button1.TabIndex = 9;
@@ -159,9 +162,9 @@
             // 
             this.refedit4._Excel = null;
             this.refedit4.AllowCollapsedFormResize = false;
-            this.refedit4.Location = new System.Drawing.Point(78, 434);
+            this.refedit4.Location = new System.Drawing.Point(78, 408);
             this.refedit4.Name = "refedit4";
-            this.refedit4.Size = new System.Drawing.Size(172, 20);
+            this.refedit4.Size = new System.Drawing.Size(174, 20);
             this.refedit4.TabIndex = 10;
             this.refedit4.CellChanged += new VS.NET_RefeditControl.refeditCellChangeEventHandler(this.refedit4_CellChanged);
             // 
@@ -169,7 +172,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(75, 395);
+            this.label5.Location = new System.Drawing.Point(75, 380);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(177, 16);
             this.label5.TabIndex = 11;
@@ -235,11 +238,41 @@
             this.label6.TabIndex = 16;
             this.label6.Text = "Please Select the Title:";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(75, 447);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(130, 16);
+            this.label7.TabIndex = 17;
+            this.label7.Text = "Save Parameters to:";
+            // 
+            // textBox_directory
+            // 
+            this.textBox_directory.Location = new System.Drawing.Point(78, 476);
+            this.textBox_directory.Name = "textBox_directory";
+            this.textBox_directory.Size = new System.Drawing.Size(237, 20);
+            this.textBox_directory.TabIndex = 18;
+            // 
+            // button_directory
+            // 
+            this.button_directory.Location = new System.Drawing.Point(321, 474);
+            this.button_directory.Name = "button_directory";
+            this.button_directory.Size = new System.Drawing.Size(25, 23);
+            this.button_directory.TabIndex = 19;
+            this.button_directory.Text = "...";
+            this.button_directory.UseVisualStyleBackColor = true;
+            this.button_directory.Click += new System.EventHandler(this.button_directory_Click);
+            // 
             // Parse_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(518, 564);
+            this.ClientSize = new System.Drawing.Size(547, 616);
+            this.Controls.Add(this.button_directory);
+            this.Controls.Add(this.textBox_directory);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.refedit5);
             this.Controls.Add(this.groupBox1);
@@ -281,5 +314,8 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private VS.NET_RefeditControl.refedit refedit5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox textBox_directory;
+        private System.Windows.Forms.Button button_directory;
     }
 }

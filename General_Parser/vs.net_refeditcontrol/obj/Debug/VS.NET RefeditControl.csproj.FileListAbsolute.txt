@@ -82,3 +82,16 @@ C:\Users\huyou1\AppData\Local\assembly\dl3\RJV3DR0B.GHR\YJP3CPOB.1K4\Excel_PlugI
 C:\Users\huyou1\AppData\Local\assembly\dl3\RJV3DR0B.GHR\YJP3CPOB.1K4\Excel_PlugIn\smetters_toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.csproj.CoreCompileInputs.cache
 C:\Users\huyou1\AppData\Local\assembly\dl3\RJV3DR0B.GHR\YJP3CPOB.1K4\Excel_PlugIn\smetters_toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.dll
 C:\Users\huyou1\AppData\Local\assembly\dl3\RJV3DR0B.GHR\YJP3CPOB.1K4\Excel_PlugIn\smetters_toolbox\VS.NET_RefeditControl\obj\Debug\VS.NET RefeditControl.pdb
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\VS.NET RefeditControl.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\VS.NET RefeditControl.pdb
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET_RefeditControl.refedit.resources
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.CoreCompileInputs.cache
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.dll
+C:\Users\huyou1\source\repos\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.pdb
