@@ -64,5 +64,46 @@ namespace General_Parser
             Globals.ThisAddIn.Application.ActiveWorkbook.Close();
             Globals.ThisAddIn.Application.Quit();
         }
+
+        private void IterateDirectory_Click(object sender, RibbonControlEventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog fBD = new FolderBrowserDialog();
+            if (fBD.ShowDialog()==DialogResult.OK)
+            {
+              String path=  fBD.SelectedPath;
+                String[] files = System.IO.Directory.GetFiles(path);
+
+                for (int i = 0; i < files.Length; i++)
+                {
+
+                    String thisFile = files[i];
+                   Globals.ThisAddIn.Application.Workbooks.Open(thisFile);
+
+                    //FileInfo finf = new FileInfo(thisFile);
+
+                    Form_ISTSSelect fIT = new Form_ISTSSelect();
+                    if (fIT.ShowDialog() == DialogResult.OK)
+                    {
+                        if (fIT.IsTimeseries)
+                        {
+                            //      System.IO.File.Copy(thisFile,)
+                            Console.WriteLine(thisFile);
+                            System.Diagnostics.Debug.WriteLine(thisFile);
+                            System.IO.File.AppendAllText(path + "/timeseriesfiles.txt", thisFile + "\r\n");
+
+                        }
+                        else
+                        {
+                            System.IO.File.AppendAllText(path + "/Non_timeseriesfiles.txt", thisFile + "\r\n");
+                        }
+                    }
+
+
+                    Globals.ThisAddIn.Application.ActiveWorkbook.Close(false);
+                 //   break;
+                }
+
+            }
+        }
     }
 }

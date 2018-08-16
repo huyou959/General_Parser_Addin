@@ -172,6 +172,12 @@
     can be found.
   -->
   <ItemGroup>
+    <Compile Include="Form_ISTSSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ISTSSelect.Designer.cs">
+      <DependentUpon>Form_ISTSSelect.cs</DependentUpon>
+    </Compile>
     <Compile Include="Parse_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -181,6 +187,9 @@
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <EmbeddedResource Include="Form_ISTSSelect.resx">
+      <DependentUpon>Form_ISTSSelect.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Parse_Form.resx">
       <DependentUpon>Parse_Form.cs</DependentUpon>
     </EmbeddedResource>

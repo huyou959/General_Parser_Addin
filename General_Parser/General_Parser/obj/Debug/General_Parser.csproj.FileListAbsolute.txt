@@ -19,3 +19,25 @@ C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.W
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
 C:\Users\huyou1\source\repos\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\General_Parser.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\General_Parser.pdb
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\General_Parser.dll.manifest
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\General_Parser.vsto
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\VS.NET RefeditControl.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\bin\Debug\VS.NET RefeditControl.pdb
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.csprojResolveAssemblyReference.cache
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.csproj.ResolveComReference.cache
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.Parse_Form.resources
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.Properties.Resources.resources
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.Ribbon1.resources
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.csproj.GenerateResource.Cache
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.csproj.CoreCompileInputs.cache
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.dll
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.pdb
+C:\General_Parser_Addin\General_Parser\General_Parser\obj\Debug\General_Parser.Form_ISTSSelect.resources
