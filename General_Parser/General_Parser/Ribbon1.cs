@@ -73,7 +73,7 @@ namespace General_Parser
               String path=  fBD.SelectedPath;
                 String[] files = System.IO.Directory.GetFiles(path);
 
-                for (int i = 0; i < files.Length; i++)
+                for (int i = 246+0; i < files.Length; i++)
                 {
 
                     String thisFile = files[i];
@@ -103,6 +103,40 @@ namespace General_Parser
                  //   break;
                 }
 
+            }
+        }
+
+        private void button4_Click(object sender, RibbonControlEventArgs e)
+        {
+
+            FormParsingInfo fPI = new FormParsingInfo();
+            if (fPI.ShowDialog() == DialogResult.OK)
+            {
+                
+               Excel.Range last = Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells.SpecialCells(Excel.XlCellType.xlCellTypeLastCell, Type.Missing);
+                int lastUsedRow = last.Row;
+                int lastUsedColumn = last.Column;
+
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 2, 1] = "ManualTableName";
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 2, 2] = fPI.TableName;
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 3, 1] = "ManualLink";
+
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 3, 2] = fPI.Url;
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 4, 1] = "ProcessingNotes";
+
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 4, 2] = fPI.ProcessingNotes;
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 5, 1] = "Metric#";
+
+                Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 5, 2] = fPI.MetricNumber;
+            }
+          //  OpenQA.Selenium.Chrome.ChromeDriver cD = new OpenQA.Selenium.Chrome.ChromeDriver();
+         //   cD.Url = "http://www.cnn.com";
+          //  MessageBox.Show("Hello World");
+          //  ChromeURLGetter cURL = new ChromeURLGetter();
+        //    IntPtr CHandle = ChromeURLGetter.GetChromeHandle();
+        //    if (!CHandle.Equals(IntPtr.Zero))
+ {
+       //         string url = ChromeURLGetter.getChromeUrl(CHandle);
             }
         }
     }

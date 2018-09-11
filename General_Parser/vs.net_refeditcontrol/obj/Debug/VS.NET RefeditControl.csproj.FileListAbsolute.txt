@@ -101,10 +101,10 @@ C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
-C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.ResolveComReference.cache
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET_RefeditControl.refedit.resources
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.GenerateResource.Cache
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csproj.CoreCompileInputs.cache
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.dll
 C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.pdb
+C:\General_Parser_Addin\General_Parser\vs.net_refeditcontrol\obj\Debug\VS.NET RefeditControl.csprojResolveAssemblyReference.cache

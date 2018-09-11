@@ -43,6 +43,7 @@
             this.button3 = this.Factory.CreateRibbonButton();
             this.group4 = this.Factory.CreateRibbonGroup();
             this.IterateDirectory = this.Factory.CreateRibbonButton();
+            this.button4 = this.Factory.CreateRibbonButton();
             this.tab1.SuspendLayout();
             this.group1.SuspendLayout();
             this.group2.SuspendLayout();
@@ -107,6 +108,7 @@
             // group4
             // 
             this.group4.Items.Add(this.IterateDirectory);
+            this.group4.Items.Add(this.button4);
             this.group4.Label = "group3";
             this.group4.Name = "group4";
             // 
@@ -115,6 +117,12 @@
             this.IterateDirectory.Label = "IterateDirectory";
             this.IterateDirectory.Name = "IterateDirectory";
             this.IterateDirectory.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.IterateDirectory_Click);
+            // 
+            // button4
+            // 
+            this.button4.Label = "MarkupSource";
+            this.button4.Name = "button4";
+            this.button4.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.button4_Click);
             // 
             // Ribbon1
             // 
@@ -147,6 +155,7 @@
         internal Microsoft.Office.Tools.Ribbon.RibbonButton button3;
         internal Microsoft.Office.Tools.Ribbon.RibbonGroup group4;
         internal Microsoft.Office.Tools.Ribbon.RibbonButton IterateDirectory;
+        internal Microsoft.Office.Tools.Ribbon.RibbonButton button4;
     }
 
     partial class ThisRibbonCollection
