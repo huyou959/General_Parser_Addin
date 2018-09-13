@@ -128,6 +128,9 @@ namespace General_Parser
                 Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 5, 1] = "Metric#";
 
                 Globals.ThisAddIn.Application.ActiveWorkbook.ActiveSheet.Cells[lastUsedRow + 5, 2] = fPI.MetricNumber;
+
+                Globals.ThisAddIn.Application.ActiveWorkbook.SaveAs(@"C:\ManualDownload\man_" + fPI.MetricNumber + ".xlsx");
+
             }
           //  OpenQA.Selenium.Chrome.ChromeDriver cD = new OpenQA.Selenium.Chrome.ChromeDriver();
          //   cD.Url = "http://www.cnn.com";

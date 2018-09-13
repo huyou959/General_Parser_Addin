@@ -252,8 +252,8 @@ namespace General_Parser
             //    System.IO.File.CreateText(@"D:\Parameters.txt");
             //}
 
-            BG.Processors.SQL_Communicator sql = new BG.Processors.SQL_Communicator();
-          Guid uploadFile=  sql.InsertParameterFile(String.Join("/n", lines));
+     //       BG.Processors.SQL_Communicator sql = new BG.Processors.SQL_Communicator();
+     //     Guid uploadFile=  sql.InsertParameterFile(String.Join("/n", lines));
                 
             
 
